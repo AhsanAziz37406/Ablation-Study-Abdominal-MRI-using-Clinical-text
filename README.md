@@ -1,4 +1,4 @@
-Image Data Path (Top Stream)
+1. Image Data Path (Top Stream)
 Step 1: Raw Dataset Input
 Raw abdominal image dataset is used as input.
 
